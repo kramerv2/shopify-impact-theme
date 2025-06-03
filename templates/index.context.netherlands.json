@@ -40,11 +40,41 @@
     "featured-collection": {
       "settings": {
         "collection": "old-money-polo",
-        "title": "OLD MONEY POLOS",
         "products": [],
-        "products_per_row_desktop": 4
+        "products_per_row_desktop": 4,
+        "title": "OLD MONEY POLOS"
       },
       "blocks": {}
+    },
+    "featured_collection_6wRh3": {
+      "type": "featured-collection",
+      "disabled": false,
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "header-e9fe3fe7966d6886197e70e20c757393": null,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      },
+      "blocks": {},
+      "block_order": [],
+      "name": "Featured collection"
     }
   },
   "order": [
@@ -52,6 +82,7 @@
     "image-link-blocks",
     "scrolling-text",
     "featured-collection",
+    "featured_collection_6wRh3",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
