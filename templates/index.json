@@ -246,6 +246,32 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_q8AGPW": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "zomersetjes",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -864,6 +890,7 @@
     "scrolling-text",
     "collection-list",
     "featured-collection",
+    "featured_collection_q8AGPW",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
