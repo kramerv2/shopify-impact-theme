@@ -40,7 +40,9 @@
     "featured-collection": {
       "settings": {
         "collection": "old-money-polo",
-        "title": "OLD MONEY POLOS"
+        "title": "OLD MONEY POLOS",
+        "products": [],
+        "products_per_row_desktop": 4
       },
       "blocks": {}
     }
