@@ -15,10 +15,10 @@
   "sections": {
     "header": {
       "settings": {
-        "transparent_logo": "shopify://shop_images/Screenshot_2025-02-28_203320.png",
         "logo": "shopify://shop_images/Screenshot_2025-02-28_203320.png",
         "logo_max_width": 160,
-        "logo_mobile_max_width": 80
+        "logo_mobile_max_width": 80,
+        "transparent_logo": null
       },
       "blocks": {}
     }
