@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -53,43 +49,20 @@
             "payment_button_text_color": ""
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {
             "collapse_content": false
           }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
         "variant_picker",
         "buy_buttons",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
-        "quantity_selector"
+        "description"
       ],
       "settings": {
         "full_width": true,
