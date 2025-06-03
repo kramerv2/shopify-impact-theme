@@ -33,7 +33,7 @@
     "text_font": "din_next_n4",
     "show_page_transition": true,
     "heading_apparition": "split_fade",
-    "color_swatch_style": "square",
+    "color_swatch_style": "round",
     "color_swatch_config": "",
     "discount_mode": "percentage",
     "product_color_display": "variant",
