@@ -12,5 +12,12 @@
   "context": {
     "market": "netherlands"
   },
-  "sections": {}
+  "sections": {
+    "header": {
+      "settings": {
+        "transparent_logo": "shopify://shop_images/Screenshot_2025-02-28_203320.png"
+      },
+      "blocks": {}
+    }
+  }
 }
