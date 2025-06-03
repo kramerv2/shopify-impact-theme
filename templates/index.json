@@ -313,20 +313,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>Bij Prime Mode combineren we moderne stijl met dagelijks comfort.</strong><br/><br/>Van tijdloze polo’s tot trendsettende sets – elk stuk is zorgvuldig geselecteerd om perfect te passen, flatterend te zijn en lang mee te gaan.<br/><br/>Meer dan 1100 tevreden klanten beoordelen ons met 4,7/5 – en we zijn nog maar net begonnen.<br/><br/><strong>Winkel met vertrouwen – wij staan achter onze producten.</strong></p>"
           }
         }
       },
@@ -340,11 +340,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/amsterdam_dark_scene_bright.webp",
+        "mobile_image": "shopify://shop_images/amsterdam_dark_scene_bright.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "media-grid": {
