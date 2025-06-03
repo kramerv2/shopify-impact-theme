@@ -37,11 +37,20 @@
             "text": "4,7/5 op basis van (1100+ beoordelingen)",
             "url": ""
           }
+        },
+        "message_CytKe": {
+          "type": "message",
+          "disabled": false,
+          "settings": {
+            "text": "10% KORTING vanaf 2 stuks",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_zPYAQ"
+        "message_zPYAQ",
+        "message_CytKe"
       ]
     }
   }
