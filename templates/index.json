@@ -358,7 +358,7 @@
             "image": "shopify://shop_images/A_Guide_to_the_Delightful_Le_Marais_in_Paris_-_Her_Travel_Edit.webp",
             "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
             "heading_tag": "h5",
-            "link_url": "",
+            "link_url": "shopify://collections",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -380,7 +380,7 @@
             "image": "shopify://shop_images/I_Moved_to_Paris_and_Learned_5_Very_Valuable_Fashion_Lessons.webp",
             "title": "OVER ONS",
             "heading_tag": "h5",
-            "link_url": "",
+            "link_url": "shopify://pages/over-ons",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -420,9 +420,10 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
+            "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
+            "title": "KOM BIJ ONS WERKEN",
+            "heading_tag": "h5",
+            "link_url": "shopify://pages/werken-bij-ons",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -435,7 +436,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 40
           }
         }
       },
