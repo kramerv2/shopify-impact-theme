@@ -66,7 +66,7 @@
             "stack_blocks": true,
             "selector_mode": "block",
             "color_mode": "variant",
-            "size_chart_page": ""
+            "size_chart_page": "{{ product.metafields.custom.tableau_des_tailles.value }}"
           }
         },
         "quantity_selector": {
