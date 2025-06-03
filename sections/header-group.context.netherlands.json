@@ -27,14 +27,14 @@
       "blocks": {
         "message": {
           "settings": {
-            "text": "30 dagen geld-terug-garantie!"
+            "text": "30 DAGEN GELD-TERUG-GARANTIE"
           }
         },
         "message_zPYAQ": {
           "type": "message",
           "disabled": false,
           "settings": {
-            "text": "4,7/5 op basis van (1100+ beoordelingen)",
+            "text": "4,7/5 OP BASIS VAN (1100+ BEOORDELINGEN)",
             "url": ""
           }
         },
@@ -42,7 +42,7 @@
           "type": "message",
           "disabled": false,
           "settings": {
-            "text": "10% KORTING vanaf 2 stuks",
+            "text": "10% KORTING VANAF 2 STUKS",
             "url": ""
           }
         }
