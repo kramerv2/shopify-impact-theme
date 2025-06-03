@@ -355,8 +355,9 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/A_Guide_to_the_Delightful_Le_Marais_in_Paris_-_Her_Travel_Edit.webp",
+            "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
+            "heading_tag": "h5",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
@@ -370,14 +371,15 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 40
           }
         },
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/I_Moved_to_Paris_and_Learned_5_Very_Valuable_Fashion_Lessons.webp",
+            "title": "OVER ONS",
+            "heading_tag": "h5",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
@@ -391,7 +393,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 43
           }
         },
         "item-3": {
