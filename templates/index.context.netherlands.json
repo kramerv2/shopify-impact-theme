@@ -20,12 +20,45 @@
           "settings": {
             "image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
             "mobile_image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
+            "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE",
             "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
-            "heading_tag": "h0",
-            "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE"
+            "heading_tag": "h0"
           }
         }
       }
+    },
+    "image-link-blocks": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    },
+    "scrolling-text": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    },
+    "featured-collection": {
+      "settings": {
+        "collection": "old-money-polo",
+        "title": "OLD MONEY POLOS"
+      },
+      "blocks": {}
     }
-  }
+  },
+  "order": [
+    "slideshow",
+    "image-link-blocks",
+    "scrolling-text",
+    "featured-collection",
+    "impact-text",
+    "image-with-text-overlay",
+    "media-grid",
+    "before-after-image",
+    "press",
+    "hot-spots",
+    "multiple-images-with-text",
+    "featured-product",
+    "feature-chart",
+    "faq"
+  ]
 }
