@@ -120,6 +120,7 @@
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -137,6 +138,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -201,6 +203,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
@@ -221,7 +224,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "old-money-polo",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -230,7 +233,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "OLD MONEY POLOS",
         "content": "",
         "link_url": "",
         "link_text": "View all",
