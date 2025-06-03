@@ -46,6 +46,13 @@
           "type": "separator",
           "settings": {}
         },
+        "collapsible_text_xT7paH": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -86,6 +93,7 @@
         "rating",
         "payment_terms",
         "separator",
+        "collapsible_text_xT7paH",
         "description",
         "variant_picker",
         "quantity_selector",
