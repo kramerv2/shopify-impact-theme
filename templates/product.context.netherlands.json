@@ -17,16 +17,11 @@
       "settings": {},
       "blocks": {},
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
-        "rating",
-        "payment_terms",
-        "separator",
         "description",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons"
       ]
     }
