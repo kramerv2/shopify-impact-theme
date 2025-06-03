@@ -92,9 +92,9 @@
           "type": "newsletter",
           "settings": {
             "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "heading_size": "h6",
+            "title": "",
+            "content": "<p>Abonneer u om speciale aanbiedingen, gratis cadeaus en exclusieve promoties te ontvangen.</p>"
           }
         },
         "links": {
@@ -107,9 +107,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Klantenservice",
+            "content": "<p><strong>Reken op ons voor 24/7 ondersteuning.</strong> Onze klantenservice staat klaar om u te helpen met alles.</p><p>🕒 <strong>Openingstijden:</strong></p><ul><li><strong>Maandag - Vrijdag:</strong> 09:00 - 18:00 CET</li><li><strong>Zaterdag:</strong> 09:00 - 17:00 CET</li><li><strong>Zondag:</strong> 10:00 - 16:00 CET</li></ul><p>✉️ <strong>Contact:</strong> contact@primemode.nl<br/>📍 <strong>Locatie:</strong> Amsterdam, 🇳🇱</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
