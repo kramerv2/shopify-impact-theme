@@ -19,7 +19,10 @@
         "slide-1": {
           "settings": {
             "image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
-            "mobile_image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg"
+            "mobile_image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
+            "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
+            "heading_tag": "h0",
+            "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE"
           }
         }
       }
