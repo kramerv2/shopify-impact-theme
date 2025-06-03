@@ -12,5 +12,17 @@
   "context": {
     "market": "netherlands"
   },
-  "sections": {}
+  "sections": {
+    "slideshow": {
+      "settings": {},
+      "blocks": {
+        "slide-1": {
+          "settings": {
+            "image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
+            "mobile_image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg"
+          }
+        }
+      }
+    }
+  }
 }
