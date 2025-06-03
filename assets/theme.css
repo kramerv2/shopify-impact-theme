@@ -9878,3 +9878,12 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+.giraffly-trust-badge-67cb07bf19e6a-68194492-491741359039 {
+  margin-top: -10px; /* Adjust the spacing as needed */
+  text-align: center; /* Center the badge if desired */
+}
+
+.giraffly-trust-badge-67cb080301af6-48194492-241741359107 {
+  margin-top: 0px; /* Adds space above the badge */
+  text-align: center; /* Centers the badge, if needed */
+}
