@@ -500,15 +500,39 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Hoe kunt u een retourzending aanvragen?",
+            "content": "<p>Als uw bestelling kan worden geretourneerd, volg dan de onderstaande stappen om de retourprocedure te starten:<br/><br/>-Stuur een e-mail via de sectie \"Contact\" op de website.<br/><br/>-Zorg ervoor dat de e-mail de volgende informatie bevat:</p><ul><li>Bestelnummer</li><li>Reden voor de retouraanvraag</li><li>Foto van het product als het beschadigd is</li><li>Voornaam en achternaam van de klant</li><li>Adres van de klant</li></ul><p>We nemen contact met u op om het retouradres te verstrekken.</p>"
+          }
+        },
+        "item_LBX9dq": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe ontvang ik mijn terugbetaling?",
+            "content": "<p>De terugbetaling wordt altijd uitgevoerd via de gekozen betaalmethode.<br/><br/>Als u met een<strong>creditcard</strong>heeft betaald, wordt het bedrag van de geretourneerde artikelen direct teruggestort op uw<strong>creditcardrekening</strong>.</p>"
+          }
+        },
+        "item_LRkh8q": {
+          "type": "item",
+          "settings": {
+            "title": "Welke betaalmethoden worden geaccepteerd?",
+            "content": "<p>U kunt kiezen uit de volgende betaalmethoden:<strong>creditcard</strong>(Visa, Mastercard, AMX),<strong>Google Pay, Apple Pay, iDEAL</strong>(voor Nederlandse klanten) en<strong>Bancontact</strong>(voor Belgische klanten).</p>"
+          }
+        },
+        "item_caCBBX": {
+          "type": "item",
+          "settings": {
+            "title": "Waarom is mijn betaling met een creditcard geweigerd?",
+            "content": "<p>Er kunnen verschillende redenen zijn waarom uw betaling met een<strong>creditcard</strong>niet is gelukt. Dit kan te maken hebben met<strong>algemene technische problemen, invoerfouten, een verlopen of geblokkeerde kaart, of onvoldoende saldo</strong>. Wij raden aan om uw kaartgegevens te controleren of een andere betaalmethode te proberen.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_LBX9dq",
+        "item_LRkh8q",
+        "item_caCBBX"
       ],
       "settings": {
         "full_width": false,
