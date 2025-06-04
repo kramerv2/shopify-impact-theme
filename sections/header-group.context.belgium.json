@@ -12,5 +12,26 @@
   "context": {
     "market": "belgium"
   },
-  "sections": {}
+  "sections": {
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "message": {
+          "settings": {
+            "url": "shopify://collections"
+          }
+        },
+        "message_9whnP4": {
+          "settings": {
+            "url": "shopify://collections"
+          }
+        },
+        "message_7rxwii": {
+          "settings": {
+            "url": "shopify://collections"
+          }
+        }
+      }
+    }
+  }
 }
