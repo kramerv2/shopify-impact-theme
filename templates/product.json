@@ -180,35 +180,6 @@
     },
     "image_with_text_overlay_8nr7zk": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_AD9Fg4": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_KaDgEB": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_jA9PeK": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_AD9Fg4",
-        "heading_KaDgEB",
-        "richtext_jA9PeK"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": false,
@@ -223,12 +194,58 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "image_with_text_overlay_APw98a": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_AcCnbE": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_qNU4pF": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_taRdJA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Bij Prime Mode combineren we moderne stijl met dagelijks comfort.</strong>Van tijdloze polo’s tot trendsettende sets – elk stuk is zorgvuldig geselecteerd om perfect te passen, flatterend te zijn en lang mee te gaan.<br/><br/>Meer dan 1100 tevreden klanten beoordelen ons met 4,7/5 – en we zijn nog maar net begonnen.<br/><br/><strong>Winkel met vertrouwen – wij staan achter onze producten.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AcCnbE",
+        "heading_qNU4pF",
+        "richtext_taRdJA"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/amsterdam_dark_scene_bright.webp",
+        "mobile_image": "shopify://shop_images/amsterdam_dark_scene_bright.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
     "testimonials_kWBHxP",
     "related-products",
-    "image_with_text_overlay_8nr7zk"
+    "image_with_text_overlay_8nr7zk",
+    "image_with_text_overlay_APw98a"
   ]
 }
