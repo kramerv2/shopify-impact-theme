@@ -13,6 +13,36 @@
     "market": "netherlands"
   },
   "sections": {
+    "featured_collection_6wRh3": {
+      "type": "featured-collection",
+      "disabled": false,
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "header-449f646e2d61418df3ac816770fbfcf6": null,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      },
+      "blocks": {},
+      "block_order": [],
+      "name": "Featured collection"
+    },
     "slideshow": {
       "settings": {},
       "blocks": {
@@ -22,7 +52,7 @@
             "mobile_image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
             "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE",
             "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
-            "heading_tag": "h0"
+            "heading_tag": "h6"
           }
         }
       }
@@ -45,36 +75,6 @@
         "title": "OLD MONEY POLOS"
       },
       "blocks": {}
-    },
-    "featured_collection_6wRh3": {
-      "type": "featured-collection",
-      "disabled": false,
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "header-e9fe3fe7966d6886197e70e20c757393": null,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      },
-      "blocks": {},
-      "block_order": [],
-      "name": "Featured collection"
     }
   },
   "order": [
