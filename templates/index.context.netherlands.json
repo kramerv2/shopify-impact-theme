@@ -26,11 +26,11 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Zomersetjes",
+        "title": "ZOMERSETJES",
         "content": "",
         "link_url": "",
         "link_text": "View all",
-        "header-449f646e2d61418df3ac816770fbfcf6": null,
+        "header-d8af46617cdc739a5443623ea24e2e94": null,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -42,6 +42,27 @@
       "blocks": {},
       "block_order": [],
       "name": "Featured collection"
+    },
+    "image_with_text_overlay_PDRcX": {
+      "type": "image-with-text-overlay",
+      "disabled": false,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/prime_mode_box_black.webp",
+        "mobile_image": "shopify://shop_images/prime_mode_box_black.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "header-7f70223ed3f9d24f5054c3fec2700f16": null,
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      },
+      "blocks": {},
+      "block_order": [],
+      "name": "Image with text overlay"
     },
     "slideshow": {
       "settings": {},
@@ -70,7 +91,7 @@
         "collection": "old-money-polo",
         "products": [],
         "products_per_row_desktop": 4,
-        "title": "Old Money POLO"
+        "title": "OLD MONEY POLOS"
       },
       "blocks": {}
     },
@@ -86,8 +107,8 @@
             "content": "",
             "button_text": "",
             "button_url": "",
-            "header-276cbb34b2e00754284f37203216efef": null,
-            "paragraph-8e368020f06296a9e1fe04e4725f7b12": null,
+            "header-8bd8487253a540dcbbd378d821c1d2b2": null,
+            "paragraph-6b318e7d238709dd1a6e6bc7885d278f": null,
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
@@ -96,27 +117,6 @@
       "block_order": [
         "item_XCFAe"
       ]
-    },
-    "image_with_text_overlay_PDRcX": {
-      "type": "image-with-text-overlay",
-      "disabled": false,
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/prime_mode_box_black.webp",
-        "mobile_image": "shopify://shop_images/prime_mode_box_black.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "header-e6cedbde5d853958bb6ab33083cd56c4": null,
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      },
-      "blocks": {},
-      "block_order": [],
-      "name": "Image with text overlay"
     },
     "image-with-text-overlay": {
       "settings": {
