@@ -13,13 +13,6 @@
     "market": "belgium"
   },
   "sections": {
-    "impact-text": {
-      "settings": {},
-      "blocks": {},
-      "block_order": [
-        "1664424181b38582d5-0"
-      ]
-    },
     "image_with_text_overlay_YxQjb": {
       "type": "image-with-text-overlay",
       "disabled": false,
@@ -32,7 +25,7 @@
         "mobile_image": null,
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "header-e6cedbde5d853958bb6ab33083cd56c4": null,
+        "header-28f5a8bfd0505ad9a6fed99335be7e7d": null,
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -41,11 +34,29 @@
       "block_order": [],
       "name": "Image with text overlay"
     },
+    "impact-text": {
+      "settings": {},
+      "blocks": {},
+      "block_order": [
+        "1664424181b38582d5-0"
+      ]
+    },
     "image-with-text-overlay": {
       "settings": {
         "image_size": "md"
       },
       "blocks": {}
+    },
+    "slideshow": {
+      "settings": {},
+      "blocks": {
+        "slide-1": {
+          "settings": {
+            "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE",
+            "title": "VROEGE ZOMER SALE – TOT 60% KORTING"
+          }
+        }
+      }
     }
   },
   "order": [

@@ -71,7 +71,8 @@
           "settings": {
             "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE",
             "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
-            "heading_tag": "h6"
+            "heading_tag": "h6",
+            "content_max_width": 1200
           }
         }
       }
