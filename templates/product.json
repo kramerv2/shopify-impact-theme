@@ -116,12 +116,13 @@
         "testimonial_hxQpf3": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/4.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Sanne L.",
+            "title": "Perfect voor de bruiloft!",
+            "content": "<p>Ik had een jurk besteld voor een bruiloft en hij kwam zelfs eerder aan dan verwacht. Hij zat meteen goed en gaf ook fijne steun bij de borst — precies wat ik zocht!</p>"
           }
         },
         "testimonial_YdxrcD": {
