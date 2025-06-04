@@ -427,6 +427,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "order_summary": {
+        "shipping_label": "Gratis"
+      }
     }
   }
 }
