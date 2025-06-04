@@ -431,6 +431,12 @@
     "checkout": {
       "order_summary": {
         "enter_shipping_address": "Gratis"
+      },
+      "general": {
+        "continue_to_payment_method": "Voltooi Bestelling"
+      },
+      "processing": {
+        "continue_to_payment_gateway_button_label": "Voltooi Bestelling"
       }
     }
   }
