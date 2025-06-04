@@ -17,11 +17,15 @@
       "settings": {},
       "blocks": {},
       "block_order": [
+        "liquid_4kK6z9",
         "title",
         "price",
-        "description",
+        "liquid_zxJ4Mz",
         "variant_picker",
-        "buy_buttons"
+        "buy_buttons",
+        "liquid_fdRgR3",
+        "seoant_trust_badges_star_rating_VLmXJq",
+        "description"
       ]
     }
   }
