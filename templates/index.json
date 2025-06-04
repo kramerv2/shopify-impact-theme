@@ -509,7 +509,7 @@
           "type": "item",
           "settings": {
             "title": "Hoe ontvang ik mijn terugbetaling?",
-            "content": "<p>De terugbetaling wordt altijd uitgevoerd via de gekozen betaalmethode.<br/><br/>Als u met een<strong>creditcard</strong>heeft betaald, wordt het bedrag van de geretourneerde artikelen direct teruggestort op uw<strong>creditcardrekening</strong>.</p>"
+            "content": "<p><strong>De terugbetaling wordt altijd uitgevoerd via de gekozen betaalmethode.</strong><br/><br/>Als u met een <strong>creditcard</strong> heeft betaald, wordt het bedrag van de geretourneerde artikelen direct teruggestort op uw <strong>creditcardrekening</strong>.</p>"
           }
         },
         "item_LRkh8q": {
@@ -523,7 +523,7 @@
           "type": "item",
           "settings": {
             "title": "Waarom is mijn betaling met een creditcard geweigerd?",
-            "content": "<p>Er kunnen verschillende redenen zijn waarom uw betaling met een<strong>creditcard</strong>niet is gelukt. Dit kan te maken hebben met<strong>algemene technische problemen, invoerfouten, een verlopen of geblokkeerde kaart, of onvoldoende saldo</strong>. Wij raden aan om uw kaartgegevens te controleren of een andere betaalmethode te proberen.</p>"
+            "content": "<p><strong>Er kunnen verschillende redenen zijn waarom uw betaling met een creditcard niet is gelukt.</strong><br/><br/>Dit kan te maken hebben met <strong>algemene technische problemen</strong>, <strong>invoerfouten</strong>, een <strong>verlopen of geblokkeerde kaart</strong>, of <strong>onvoldoende saldo</strong>.<br/><br/>Wij raden aan om uw kaartgegevens te controleren of een <strong>andere betaalmethode</strong> te proberen.</p>"
           }
         }
       },
