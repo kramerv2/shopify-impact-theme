@@ -14,7 +14,10 @@
   },
   "sections": {
     "announcement-bar": {
-      "settings": {},
+      "settings": {
+        "scrolling_speed": 15,
+        "navigation_mode": "scrolling"
+      },
       "blocks": {
         "message": {
           "settings": {
