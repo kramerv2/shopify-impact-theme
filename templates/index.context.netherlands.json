@@ -48,8 +48,6 @@
       "blocks": {
         "slide-1": {
           "settings": {
-            "image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
-            "mobile_image": "shopify://shop_images/468305116_122136385346398023_1660182402894336443_n_3.jpg",
             "subheading": "PRIME MODE - ÉLÉGANCE NÉERLANDAISE",
             "title": "VROEGE ZOMER SALE – TOT 60% KORTING",
             "heading_tag": "h6"
@@ -72,7 +70,7 @@
         "collection": "old-money-polo",
         "products": [],
         "products_per_row_desktop": 4,
-        "title": "OLD MONEY POLOS"
+        "title": "Old Money POLO"
       },
       "blocks": {}
     }
