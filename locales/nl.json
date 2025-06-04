@@ -315,7 +315,7 @@
       "order_note": "Bestelnotitie",
       "save_note": "Opslaan",
       "view_cart": "Winkelwagen bekijken",
-      "checkout": "Afrekenen",
+      "checkout": "Bestelling Nakijken",
       "we_accept": "We accepteren",
       "taxes_and_shipping_policy_at_checkout_html": "Btw en <a href=\"{{ link }}\" class=\"link\">verzendkosten</a> berekend bij het afrekenen",
       "taxes_included_but_shipping_at_checkout": "Btw inbegrepen en verzendkosten berekend bij het afrekenen",
