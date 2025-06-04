@@ -14,8 +14,15 @@
   },
   "sections": {
     "announcement-bar": {
-      "settings": {},
+      "settings": {
+        "scrolling_speed": 15
+      },
       "blocks": {
+        "message": {
+          "settings": {
+            "url": "shopify://collections"
+          }
+        },
         "message_zPYAQ": {
           "type": "message",
           "disabled": false,
@@ -29,11 +36,6 @@
           "disabled": false,
           "settings": {
             "text": "10% KORTING VANAF 2 STUKS",
-            "url": "shopify://collections"
-          }
-        },
-        "message": {
-          "settings": {
             "url": "shopify://collections"
           }
         }
