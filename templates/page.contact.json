@@ -20,7 +20,7 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
+        "subheading": "",
         "title": "Heb je een vraag? Wij helpen je graag.",
         "content": "<p>U kunt ons altijd een bericht sturen via het onderstaande contactformulier. Wij streven ernaar om binnen 24 uur te reageren.</p><p>🕒 <strong>Openingstijden klantenservice</strong><br/><br/>Maandag – Vrijdag: 09:00 – 18:00 CET<br/>Zaterdag: 09:00 – 17:00 CET<br/>Zondag: 10:00 – 16:00 CET</p><p>✉️ <strong>E-mail : </strong>contact@primemode.nl</p><p>Reken op ons voor <strong>24/7 ondersteuning</strong> – uw tevredenheid is onze prioriteit.</p>",
         "text_position": "start",
