@@ -241,6 +241,75 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "faq_enkNBQ": {
+      "type": "faq",
+      "blocks": {
+        "item_GRrnNM": {
+          "type": "item",
+          "settings": {
+            "title": "Wat is de levertijd?",
+            "content": "<p>Over het algemeen leveren wij direct beschikbare artikelen binnen <strong>6 tot 9 dagen</strong></p>"
+          }
+        },
+        "item_KzWa9r": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe kunt u een retourzending aanvragen?",
+            "content": "<p>Als uw bestelling kan worden geretourneerd, volg dan de onderstaande stappen om de retourprocedure te starten:<br/><br/>-Stuur een e-mail via de sectie \"Contact\" op de website.<br/><br/>-Zorg ervoor dat de e-mail de volgende informatie bevat:</p><ul><li>Bestelnummer</li><li>Reden voor de retouraanvraag</li><li>Foto van het product als het beschadigd is</li><li>Voornaam en achternaam van de klant</li><li>Adres van de klant</li></ul><p>We nemen contact met u op om het retouradres te verstrekken.</p>"
+          }
+        },
+        "item_icrP96": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe ontvang ik mijn terugbetaling?",
+            "content": "<p>De terugbetaling wordt altijd uitgevoerd via de gekozen betaalmethode.<br/><br/>Als u met een creditcard hebt betaald, wordt het bedrag van de geretourneerde artikelen direct teruggestort op uw creditcardrekening.</p>"
+          }
+        },
+        "item_8H8Dai": {
+          "type": "item",
+          "settings": {
+            "title": "Welke betaalmethoden worden geaccepteerd?",
+            "content": "<p>U kunt kiezen uit de volgende betaalmethoden:<strong>creditcard</strong>(Visa, Mastercard, AMX),<strong>Google Pay, Apple Pay, iDEAL</strong>en<strong>Bancontact</strong></p>"
+          }
+        },
+        "item_WTfnTz": {
+          "type": "item",
+          "settings": {
+            "title": "Waarom is mijn betaling met een creditcard geweigerd?",
+            "content": "<p>Er kunnen verschillende redenen zijn waarom uw betaling met een <strong>creditcard</strong> niet is gelukt. Dit kan te maken hebben met <strong>algemene technische problemen</strong>, <strong>invoerfouten</strong>, een <strong>verlopen of geblokkeerde kaart</strong>, of <strong>onvoldoende saldo</strong>. Wij raden aan om uw <strong>kaartgegevens</strong> te controleren of een <strong>andere betaalmethode</strong> te proberen.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_GRrnNM",
+        "item_KzWa9r",
+        "item_icrP96",
+        "item_8H8Dai",
+        "item_WTfnTz"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -248,6 +317,7 @@
     "testimonials_kWBHxP",
     "related-products",
     "image_with_text_overlay_8nr7zk",
-    "image_with_text_overlay_APw98a"
+    "image_with_text_overlay_APw98a",
+    "faq_enkNBQ"
   ]
 }
