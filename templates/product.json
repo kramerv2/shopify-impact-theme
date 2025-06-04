@@ -128,19 +128,33 @@
         "testimonial_YdxrcD": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Joshua A.",
+            "title": "Topservice bij een foutje van mij",
+            "content": "<p>Ik had per ongeluk twee keer hetzelfde shirt besteld. Klantenservice reageerde snel en regelde meteen de terugbetaling.</p>"
+          }
+        },
+        "testimonial_ydgtPe": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/sectie_4.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Rick V.",
+            "title": "Mooie kwaliteit, maar iets strakker dan verwacht",
+            "content": "<p>De stof voelt premium en de kleur is precies zoals op de foto. Alleen zat hij bij de schouders wat strakker dan ik had gedacht. Toch zeker blij met m’n aankoop</p>"
           }
         }
       },
       "block_order": [
         "testimonial_bGtWaY",
         "testimonial_hxQpf3",
-        "testimonial_YdxrcD"
+        "testimonial_YdxrcD",
+        "testimonial_ydgtPe"
       ],
       "name": "Testimonials",
       "settings": {
