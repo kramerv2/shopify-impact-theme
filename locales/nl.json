@@ -94,7 +94,7 @@
       "taxes_included": "Inclusief btw.",
       "taxes_excluded": "Exclusief btw.",
       "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Verzendkosten berekend</a> bij het afrekenen",
-      "size_chart": "Maattabel",
+      "size_chart": "✄┈┈ MAATTABEL (CM)",
       "available_colors_count": {
         "one": "{{ count }} kleur beschikbaar",
         "other": "{{ count }} kleuren beschikbaar"
