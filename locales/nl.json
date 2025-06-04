@@ -430,7 +430,6 @@
     },
     "checkout": {
       "order_summary": {
-        "shipping_label": "Gratis",
         "enter_shipping_address": "Gratis"
       }
     }
