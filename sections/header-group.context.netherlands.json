@@ -21,7 +21,7 @@
           "disabled": false,
           "settings": {
             "text": "4,7/5 OP BASIS VAN (1100+ BEOORDELINGEN)",
-            "url": ""
+            "url": "shopify://collections"
           }
         },
         "message_CytKe": {
@@ -29,7 +29,12 @@
           "disabled": false,
           "settings": {
             "text": "10% KORTING VANAF 2 STUKS",
-            "url": ""
+            "url": "shopify://collections"
+          }
+        },
+        "message": {
+          "settings": {
+            "url": "shopify://collections"
           }
         }
       },
