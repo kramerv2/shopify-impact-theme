@@ -104,12 +104,13 @@
         "testimonial_bGtWaY": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Jeroen V.",
+            "title": "Twijfels over de maat, maar super tevreden!",
+            "content": "<p>Ik was eerst niet zeker over de maat, dus twee polo’s besteld. Bleek dat ze echt goed passen! Die maattabel klopt gewoon.</p>"
           }
         },
         "testimonial_hxQpf3": {
