@@ -47,11 +47,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "5890205134905443601": {
-        "type": "shopify://apps/seoant-trust-badges/blocks/trust_core/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
-        "disabled": true,
-        "settings": {}
-      },
       "12075128526103414267": {
         "type": "shopify://apps/bundlex/blocks/volume-discount-embed/c017a4b2-071a-4809-a2c2-1c5768f46bb9",
         "disabled": false,
@@ -65,6 +60,11 @@
           "product_form_selector": "",
           "custom_css": ""
         }
+      },
+      "5890205134905443601": {
+        "type": "shopify://apps/seoant-trust-badges/blocks/trust_core/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
+        "disabled": false,
+        "settings": {}
       }
     }
   },

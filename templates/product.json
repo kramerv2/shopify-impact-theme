@@ -49,6 +49,12 @@
             "payment_button_text_color": ""
           }
         },
+        "seoant_trust_badges_star_rating_VLmXJq": {
+          "type": "shopify://apps/seoant-trust-badges/blocks/star_rating/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
+          "settings": {
+            "badge_id": "67cb07bf19e6a-68194492-491741359039"
+          }
+        },
         "liquid_fdRgR3": {
           "type": "liquid",
           "settings": {
@@ -68,6 +74,7 @@
         "price",
         "variant_picker",
         "buy_buttons",
+        "seoant_trust_badges_star_rating_VLmXJq",
         "liquid_fdRgR3",
         "description"
       ],
