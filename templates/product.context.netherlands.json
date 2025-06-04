@@ -15,13 +15,22 @@
   "sections": {
     "main": {
       "settings": {},
-      "blocks": {},
+      "blocks": {
+        "liquid_efK8m": {
+          "type": "liquid",
+          "disabled": false,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"nl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Sale Point 1</title>\n  <style>\n    body {\n      font-family: 'DIN NEXT', sans-serif;\n      margin: 0;\n      padding: 0;\n    }\n\n    .pm-salepoint1 {\n      display: flex;\n      align-items: center;\n      font-size: 16px;\n      font-weight: 500;\n      margin-bottom: 0px;\n      margin-top: 2px;\n    }\n\n    .pm-icon1 {\n      width: 10px;\n      height: 10px;\n      border-radius: 50%;\n      background-color: #f5af29;\n      margin-right: 8px;\n      position: relative;\n    }\n\n    .pm-icon1::before {\n      content: '';\n      position: absolute;\n      top: -6px;\n      left: -6px;\n      width: 22px;\n      height: 22px;\n      background-color: #f5af29;\n      opacity: 0.5;\n      border-radius: 50%;\n      animation: pm-pulse 1.6s ease-in-out infinite;\n    }\n\n    .pm-text1 {\n      color: #f5af29;\n      font-weight: 600;\n    }\n\n    @keyframes pm-pulse {\n      0% {\n        transform: scale(0.8);\n        opacity: 0.5;\n      }\n      50% {\n        transform: scale(1.5);\n        opacity: 0;\n      }\n      100% {\n        transform: scale(0.8);\n        opacity: 0;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- POINT 1 -->\n  <div class=\"pm-salepoint1\">\n    <div class=\"pm-icon1\"></div>\n    <span class=\"pm-text1\">Bijna Uitverkocht!</span>\n  </div>\n\n</body>\n</html>"
+          }
+        }
+      },
       "block_order": [
         "liquid_4kK6z9",
         "title",
         "price",
         "liquid_zxJ4Mz",
         "variant_picker",
+        "liquid_efK8m",
         "buy_buttons",
         "liquid_fdRgR3",
         "seoant_trust_badges_star_rating_VLmXJq",
