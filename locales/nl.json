@@ -319,7 +319,7 @@
       "we_accept": "We accepteren",
       "taxes_and_shipping_policy_at_checkout_html": "Btw en <a href=\"{{ link }}\" class=\"link\">verzendkosten</a> berekend bij het afrekenen",
       "taxes_included_but_shipping_at_checkout": " ",
-      "taxes_included_and_shipping_policy_html": "Btw inbegrepen. <a href=\"{{ link }}\" class=\"link\">Verzendkosten</a> berekend bij het afrekenen.",
+      "taxes_included_and_shipping_policy_html": "Alle bestellingen worden zorgvuldig hercontroleerd vóór verzending",
       "taxes_and_shipping_at_checkout": " "
     },
     "order": {
