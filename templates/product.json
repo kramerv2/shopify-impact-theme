@@ -125,18 +125,6 @@
             "content": "<p>Ik had een jurk besteld voor een bruiloft en hij kwam zelfs eerder aan dan verwacht. Hij zat meteen goed en gaf ook fijne steun bij de borst — precies wat ik zocht!</p>"
           }
         },
-        "testimonial_YdxrcD": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Joshua A.",
-            "title": "Topservice bij een foutje van mij",
-            "content": "<p>Ik had per ongeluk twee keer hetzelfde shirt besteld. Klantenservice reageerde snel en regelde meteen de terugbetaling.</p>"
-          }
-        },
         "testimonial_ydgtPe": {
           "type": "testimonial",
           "settings": {
@@ -148,13 +136,25 @@
             "title": "Mooie kwaliteit, maar iets strakker dan verwacht",
             "content": "<p>De stof voelt premium en de kleur is precies zoals op de foto. Alleen zat hij bij de schouders wat strakker dan ik had gedacht. Toch zeker blij met m’n aankoop</p>"
           }
+        },
+        "testimonial_YdxrcD": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Joshua A.",
+            "title": "Topservice bij een foutje van mij",
+            "content": "<p>Ik had per ongeluk twee keer hetzelfde shirt besteld. Klantenservice reageerde snel en regelde meteen de terugbetaling.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_bGtWaY",
         "testimonial_hxQpf3",
-        "testimonial_YdxrcD",
-        "testimonial_ydgtPe"
+        "testimonial_ydgtPe",
+        "testimonial_YdxrcD"
       ],
       "name": "Testimonials",
       "settings": {
