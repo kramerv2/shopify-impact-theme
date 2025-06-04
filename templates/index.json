@@ -488,21 +488,21 @@
           "type": "item",
           "settings": {
             "title": "Wat is de levertijd?",
-            "content": "<p>Over het algemeen leveren wij direct beschikbare artikelen binnen<strong>6 tot 9 dagen</strong></p>"
+            "content": "<p>Over het algemeen leveren wij direct beschikbare artikelen binnen <strong>6 tot 9 dagen</strong></p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "Hoe kan ik mijn bestelling volgen?",
-            "content": "<p>Om de leveringsstatus van uw bestelling te controleren, kunt u de verzendbevestiging raadplegen die u per e-mail heeft ontvangen. Voor elk verzonden pakket ontvangt u een verzendbevestiging met een<strong>volglink</strong>. Deze bevestiging wordt verzonden nadat uw bestelling is bevestigd en de pakketten zijn verzonden.</p>"
+            "content": "<p>Om de <strong>leveringsstatus</strong> van uw bestelling te controleren, kunt u de <strong>verzendbevestiging</strong> raadplegen die u per e-mail heeft ontvangen. Voor elk verzonden pakket ontvangt u een <strong>verzendbevestiging</strong> met een <strong>volglink</strong>. Deze bevestiging wordt verzonden zodra uw bestelling is <strong>verwerkt</strong> en de pakketten zijn <strong>verzonden</strong>.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Hoe kunt u een retourzending aanvragen?",
-            "content": "<p>Als uw bestelling kan worden geretourneerd, volg dan de onderstaande stappen om de retourprocedure te starten:<br/><br/>-Stuur een e-mail via de sectie \"Contact\" op de website.<br/><br/>-Zorg ervoor dat de e-mail de volgende informatie bevat:</p><ul><li>Bestelnummer</li><li>Reden voor de retouraanvraag</li><li>Foto van het product als het beschadigd is</li><li>Voornaam en achternaam van de klant</li><li>Adres van de klant</li></ul><p>We nemen contact met u op om het retouradres te verstrekken.</p>"
+            "content": "<p>Als uw bestelling in aanmerking komt voor retour, volg dan deze stappen om de retourprocedure te starten:</p><ol><li>Stuur een e-mail via de sectie <strong>\"Contact\" </strong>op onze website.</li><li>Vermeld in de e-mail de volgende informatie</li></ol><ul><li><strong>Bestelnummer</strong></li><li><strong>Reden van de retouraanvraag</strong></li><li><strong>Foto van het product</strong> (als het beschadigd is)</li><li><strong>Voor- en achternaam van de klant</strong></li><li><strong>Adres van de klant</strong></li></ul><p>Wij nemen daarna contact met u op om het <strong>retouradres</strong> te verstrekken.</p>"
           }
         },
         "item_LBX9dq": {
