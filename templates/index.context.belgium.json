@@ -12,5 +12,54 @@
   "context": {
     "market": "belgium"
   },
-  "sections": {}
+  "sections": {
+    "impact-text": {
+      "settings": {},
+      "blocks": {},
+      "block_order": [
+        "1664424181b38582d5-0"
+      ]
+    },
+    "image_with_text_overlay_YxQjb": {
+      "type": "image-with-text-overlay",
+      "disabled": false,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/prime_mode_box_black.webp",
+        "mobile_image": null,
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "header-e6cedbde5d853958bb6ab33083cd56c4": null,
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      },
+      "blocks": {},
+      "block_order": [],
+      "name": "Image with text overlay"
+    },
+    "image-with-text-overlay": {
+      "settings": {
+        "image_size": "md"
+      },
+      "blocks": {}
+    }
+  },
+  "order": [
+    "slideshow",
+    "image-link-blocks",
+    "scrolling-text",
+    "collection-list",
+    "featured-collection",
+    "featured_collection_q8AGPW",
+    "impact-text",
+    "image_with_text_overlay_YxQjb",
+    "image-with-text-overlay",
+    "media-grid",
+    "before-after-image",
+    "faq"
+  ]
 }
