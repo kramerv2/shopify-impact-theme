@@ -15,7 +15,9 @@
   "sections": {
     "announcement-bar": {
       "settings": {
-        "scrolling_speed": 15
+        "scrolling_speed": 15,
+        "text_size": "text-xs",
+        "enable_sticky": false
       },
       "blocks": {
         "message": {
