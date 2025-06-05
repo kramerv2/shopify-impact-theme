@@ -198,7 +198,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "recommendations_count": 2,
+        "recommendations_count": 4,
         "products": [],
         "full_width": true,
         "stack_products": true,
