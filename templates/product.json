@@ -198,7 +198,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "recommendations_count": 4,
+        "recommendations_count": 2,
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -255,7 +255,7 @@
         "richtext_taRdJA": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Bij Prime Mode combineren we moderne stijl met dagelijks comfort.</strong>Van tijdloze polo’s tot trendsettende sets – elk stuk is zorgvuldig geselecteerd om perfect te passen, flatterend te zijn en lang mee te gaan.<br/><br/>Meer dan 1100 tevreden klanten beoordelen ons met 4,7/5 – en we zijn nog maar net begonnen.<br/><br/><strong>Winkel met vertrouwen – wij staan achter onze producten.</strong></p>"
+            "content": "<p>Bij Prime Mode draait het om moderne stijl en dagelijks comfort. Van tijdloze polo’s tot trendy sets – elk item is flatterend, duurzaam en zorgvuldig gekozen. Meer dan 1100 klanten geven ons een 4,7/5. Shop met vertrouwen!</p>"
           }
         }
       },
