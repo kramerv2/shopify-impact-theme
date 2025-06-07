@@ -291,7 +291,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "zomersetjes",
+        "collection": "opheffingsuitverkoop-jurken",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -300,7 +300,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "ZOMERSETJES",
+        "title": "Opheffingsuitverkoop – Jurken",
         "content": "",
         "link_url": "",
         "link_text": "Alles bekijken",
