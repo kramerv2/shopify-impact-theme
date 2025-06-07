@@ -9,6 +9,45 @@
  */
 {
   "sections": {
+    "video_HFqjJU": {
+      "type": "video",
+      "blocks": {
+        "play_J7Utkf": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_h8k4TM": {
+          "type": "heading",
+          "settings": {
+            "text": "Tot 60% korting",
+            "heading_tag": "h2"
+          }
+        },
+        "subheading_LDP6yj": {
+          "type": "subheading",
+          "settings": {
+            "text": "Vroege seizoensuitverkoop"
+          }
+        }
+      },
+      "block_order": [
+        "play_J7Utkf",
+        "heading_h8k4TM",
+        "subheading_LDP6yj"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/3089d7795c3f4b3c947c58ba7bafec37.HD-1080p-2.5Mbps-38987592_93db8915-a50b-45f5-bfbc-64947853628c.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -38,6 +77,7 @@
       "block_order": [
         "slide-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -576,6 +616,7 @@
     }
   },
   "order": [
+    "video_HFqjJU",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
