@@ -40,7 +40,7 @@
         "full_width": true,
         "allow_transparent_header": true,
         "autoplay": true,
-        "video_size": "auto",
+        "video_size": "sm",
         "video": "shopify://files/videos/3089d7795c3f4b3c947c58ba7bafec37.HD-1080p-2.5Mbps-38987592_93db8915-a50b-45f5-bfbc-64947853628c.mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
