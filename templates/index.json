@@ -20,7 +20,7 @@
           "type": "heading",
           "settings": {
             "text": "Tot 70% korting op alles",
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "subheading_LDP6yj": {
@@ -274,7 +274,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Opheffing – Bruiloftsgasten",
+        "title": "Opheffingsuitverkoop – Bruiloftsgasten",
         "content": "",
         "link_url": "",
         "link_text": "Alles bekijken",
