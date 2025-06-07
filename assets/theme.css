@@ -9745,6 +9745,7 @@ split-lines {
 .text-lg {
   font-size: var(--text-lg);
   line-height: 1.6;
+  font-weight: 600;
 }
 
 .heading, .h0, .h1, .h2, .h3, .h4, .h5, .h6, .prose :is(h1, h2, h3, h4, h5, h6) {
