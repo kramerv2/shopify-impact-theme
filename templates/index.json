@@ -552,7 +552,7 @@
           "type": "item",
           "settings": {
             "title": "Hoe kan ik mijn bestelling volgen?",
-            "content": "<p>Om de <strong>leveringsstatus</strong> van uw bestelling te controleren, kunt u de <strong>verzendbevestiging</strong> raadplegen die u per e-mail heeft ontvangen. Voor elk verzonden pakket ontvangt u een <strong>verzendbevestiging</strong> met een <strong>volglink</strong>. Deze bevestiging wordt verzonden zodra uw bestelling is <strong>verwerkt</strong> en de pakketten zijn <strong>verzonden</strong>.</p>"
+            "content": "<p>Om de <strong>leveringsstatus</strong> van uw bestelling te controleren, kunt u de <strong>verzendbevestiging</strong> raadplegen die u per e-mail heeft ontvangen.</p><p>Voor elk verzonden pakket ontvangt u een <strong>bevestigingsmail met een volglink</strong>. Deze bevestiging wordt verzonden <strong>zodra uw bestelling is verwerkt en verzonden</strong>.</p><p>Gebruik de <strong>volglink</strong> om uw pakket in realtime te volgen.</p>"
           }
         },
         "166442457738b23caf-2": {
