@@ -10,14 +10,7 @@
 {
   "parent": "header-group.json",
   "context": {
-    "market": "belgium"
+    "market": "italy"
   },
-  "sections": {
-    "announcement-bar": {
-      "settings": {
-        "scrolling_speed": 15
-      },
-      "blocks": {}
-    }
-  }
+  "sections": {}
 }
