@@ -265,7 +265,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "old-money-polo",
+        "collection": "opheffing-bruiloftsgasten",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -274,7 +274,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "OLD MONEY POLOS",
+        "title": "Opheffing – Bruiloftsgasten",
         "content": "",
         "link_url": "",
         "link_text": "Alles bekijken",
