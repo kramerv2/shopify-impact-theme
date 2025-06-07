@@ -8985,6 +8985,7 @@ split-lines {
 
 .text-on-sale {
   color: rgb(var(--on-sale-text));
+  font-weight: bold;
 }
 
 .text-stroke {
