@@ -12,12 +12,5 @@
   "context": {
     "market": "belgium"
   },
-  "sections": {
-    "announcement-bar": {
-      "settings": {
-        "scrolling_speed": 15
-      },
-      "blocks": {}
-    }
-  }
+  "sections": {}
 }
