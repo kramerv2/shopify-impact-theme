@@ -384,7 +384,7 @@
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Bij Prime Mode combineren we moderne stijl met dagelijks comfort.</strong><br/><br/>Van tijdloze polo’s tot trendsettende sets – elk stuk is zorgvuldig geselecteerd om perfect te passen, flatterend te zijn en lang mee te gaan.<br/><br/>Meer dan 1100 tevreden klanten beoordelen ons met 4,7/5 – en we zijn nog maar net begonnen.<br/><br/><strong>Winkel met vertrouwen – wij staan achter onze producten.</strong></p>"
+            "content": "<p>Bij Prime Mode vind je moderne stijl en dagelijks comfort.<br/><br/>Van tijdloze polo’s tot trendy sets – zorgvuldig geselecteerd, flatterend en duurzaam.<br/><br/>1100+ tevreden klanten, beoordeeld met 4,7/5.</p>"
           }
         }
       },
@@ -397,7 +397,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "md",
+        "image_size": "auto",
         "image": "shopify://shop_images/amsterdam_dark_scene_bright.webp",
         "mobile_image": "shopify://shop_images/amsterdam_dark_scene_bright.webp",
         "mobile_text_position": "place-self-center text-center",
