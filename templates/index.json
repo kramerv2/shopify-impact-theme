@@ -480,9 +480,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
-            "title": "KOM BIJ ONS WERKEN",
+            "title": "VERZENDING EN LEVERING",
             "heading_tag": "h5",
-            "link_url": "shopify://pages/werken-bij-ons",
+            "link_url": "shopify://pages/verzendbeleid",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
