@@ -439,7 +439,8 @@
         "continue_to_payment_gateway_button_label": "Voltooi Bestelling"
       },
       "shop_policies": {
-        "shipping_policy": " "
+        "shipping_policy": " ",
+        "privacy_policy": " "
       }
     }
   }
