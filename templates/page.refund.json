@@ -11,13 +11,13 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "content_width": "80ch"
       }
     },
     "contact_jJiVML": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
