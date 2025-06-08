@@ -1,0 +1,45 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "contact_jJiVML": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Heb je een vraag? Wij helpen je graag.",
+        "content": "<p>U kunt ons altijd een bericht sturen via het onderstaande contactformulier. Wij streven ernaar om binnen 24 uur te reageren.</p><p>🕒 <strong>Openingstijden klantenservice</strong><br/><br/>Maandag – Vrijdag: 09:00 – 18:00 CET<br/>Zaterdag: 09:00 – 17:00 CET<br/>Zondag: 10:00 – 16:00 CET</p><p>✉️ <strong>E-mail : </strong>contact@primemode.nl</p><p>Reken op ons voor <strong>24/7 ondersteuning</strong> – uw tevredenheid is onze prioriteit.</p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact_jJiVML"
+  ]
+}
