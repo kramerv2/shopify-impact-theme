@@ -573,7 +573,7 @@
           "type": "item",
           "settings": {
             "title": "Welke betaalmethoden worden geaccepteerd?",
-            "content": "<p>U kunt kiezen uit de volgende betaalmethoden:<strong>creditcard</strong>(Visa, Mastercard, AMX),<strong>Google Pay, Apple Pay, iDEAL</strong> en <strong>Bancontact</strong></p>"
+            "content": "<p><strong>U kunt kiezen uit de volgende betaalmethoden: creditcard</strong> (Visa, Mastercard, AMEX), <strong>Google Pay, Apple Pay, iDEAL</strong> en <strong>Bancontact</strong></p>"
           }
         },
         "item_caCBBX": {
