@@ -262,8 +262,35 @@
         "heading_gradient": ""
       }
     },
+    "featured_collection_yVhXbi": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "old-money-polo",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Old Money Polo’s",
+        "content": "",
+        "link_url": "",
+        "link_text": "Alles bekijken",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "opheffing-bruiloftsgasten",
         "products": [],
@@ -309,8 +336,8 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "product_card_background": "#f2f2f2",
-        "product_card_text_color": "#1a1a1a"
+        "product_card_background": "rgba(0,0,0,0)",
+        "product_card_text_color": "rgba(0,0,0,0)"
       }
     },
     "impact-text": {
@@ -621,6 +648,7 @@
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
+    "featured_collection_yVhXbi",
     "featured-collection",
     "featured_collection_q8AGPW",
     "impact-text",
